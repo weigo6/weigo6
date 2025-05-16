@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python、QT、MKdocs、STM32**
 
-- 📝 I regularly write articles on [sufine.top](sufine.top)
+- 📝 I regularly write articles on [sufine.top](https://sufine.top)
 
 - 💬 Ask me about **embedded development**
 
