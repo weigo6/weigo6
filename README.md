@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm luwei</h1>
-<h3 align="center">A collage student from China.</h3>
+<h3 align="center">A College Student from China.</h3>
 
 - 🌱 I’m currently learning **Python、QT、MKdocs、STM32**
 
